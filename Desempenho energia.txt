@@ -1,0 +1,4 @@
+Existe uma maneira escondida de como ativar o desempenho maximo
+do seu computador: basta inserir no prompt comando o código:
+
+powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61 
